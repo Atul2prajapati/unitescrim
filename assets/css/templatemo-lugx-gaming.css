@@ -286,7 +286,7 @@ Header Style
 
 .background-header {
   background-color: #d2e5f5 !important;
-  background-image: url("/assets/images/PuAssests/asset1.png");
+  background-image: url("/unitescrims/assets/images/PuAssests/asset1.png");
   background-attachment: fixed;
   background-clip: border-box;
   background-repeat: no-repeat;
@@ -814,7 +814,7 @@ main.table {
   margin-left: auto;
   margin-right: auto;
   margin-top: 70px;
-  background: url(/assets/images/Diffpokeballdesign/Pokeball\ Background\ Pokeball\ patte.jpg) center / cover;
+  background: url(/unitescrims/assets/images/Diffpokeballdesign/Pokeball\ Background\ Pokeball\ patte.jpg) center / cover;
   
 
   backdrop-filter: blur(7px);
