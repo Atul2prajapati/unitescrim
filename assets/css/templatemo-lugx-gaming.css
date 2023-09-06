@@ -1,8 +1,7 @@
 /*
 
-TemplateMo 589 lugx gaming
-
-https://templatemo.com/tm-589-lugx-gaming
+DARKFREED
+:)
 
 */
 
@@ -116,6 +115,11 @@ Global Styles
 */
 html,
 body {
+  background-image:url(/assets/images/Diffpokeballdesign/Paladea\ MAp.jpg);
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: center;
+  
   font-family: 'Poppins', sans-serif;
 }
 
@@ -657,6 +661,7 @@ Banner Style
 
 .main-banner {
   background-image: url(../images/zendesign/colortheme.jpg);
+  height: 100%;
   border-radius: 0px 0px 100px 150px;
   background-position: center bottom;
   background-repeat: no-repeat;
@@ -740,6 +745,7 @@ Banner Style
 }
 
 .main-banner .right-image {
+
   position:relative;
 background-position: center;
 
