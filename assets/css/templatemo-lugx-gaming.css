@@ -115,7 +115,7 @@ Global Styles
 */
 html,
 body {
-  background-image:url(/assets/images/Diffpokeballdesign/Paladea\ MAp.jpg);
+  background-image:url(../images/Diffpokeballdesign/PaladeaMAp.jpg);
   background-repeat:no-repeat;
   background-size: cover;
   background-position: center;
@@ -290,7 +290,7 @@ Header Style
 
 .background-header {
   background-color: #d2e5f5 !important;
-  background-image: url("/unitescrims/assets/images/PuAssests/asset1.png");
+  background-image: url("../images/PuAssests/asset1.png");
   background-attachment: fixed;
   background-clip: border-box;
   background-repeat: no-repeat;
