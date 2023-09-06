@@ -815,7 +815,7 @@ main.table {
   margin-left: auto;
   margin-right: auto;
   margin-top: 70px;
-  background: url(/unitescrims/assets/images/Diffpokeballdesign/Pokeball\ Background\ Pokeball\ patte.jpg) center / cover;
+  background: url(../images/Diffpokeballdesign/Pokeball\ Background\ Pokeball\ patte.jpg) center / cover;
   
 
   backdrop-filter: blur(7px);
